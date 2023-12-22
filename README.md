@@ -12,6 +12,10 @@
 <a href= "https://instagram.com/osakamarcus"><img src="https://img.icons8.com/material-outlined/32/ffffff/instagram.png"/></a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osakareaper&layout=donut-vertical&theme=tokyonight" alt="Top Langs">
+</div>
+
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp> 
