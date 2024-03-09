@@ -12,10 +12,6 @@
 </p>
 
 <div align="center">
-  <a href= "https://spotify-github-profile.vercel.app/api/view.svg?uid=314fkq5bb4pbwty3fdv6levvpcuq&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=314fkq5bb4pbwty3fdv6levvpcuq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ffffff&bar_color_cover=false"/></a>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osakareaper&layout=donut-vertical&theme=tokyonight" alt="Top Langs">
 </div>
 
